@@ -11,7 +11,7 @@
                       <input type="text" name="name"class="form-control" placeholder="名前を入力してください。"required>
                     </div>
                     <div class="col">
-                            <label for="exampleInputAge">年齢</label>
+                            <label for="exampleInputAge">年</label>
                       <input type="text" name="age"class="form-control" placeholder="年齢を入力してください。"required>
                     </div>
                   </div>

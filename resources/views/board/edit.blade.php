@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
 <div class="col-12 mt-5">
-    <h2 class="text-center text-warning">編集画面</h2>
+    <h2 class="text-center text-warning">編集画面です</h2>
     <form  action="{{route('board.update',['board'=>$board->id])}}" method="POST" class="col-12">
             @csrf
             @method('PUT')

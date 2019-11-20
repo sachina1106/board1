@@ -7,7 +7,7 @@
             @method('PUT')
                         <div class="row">
                                 <div class="col">
-                                        <label for="exampleInputName">氏名</label>
+                                        <label for="exampleInputName">お名前</label>
                                 <input type="text" name="name"class="form-control" placeholder="名前を入力してください。" value="{{$board->name}}" required>
                                 </div>
                                 <div class="col">

@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('content')
 <div class="col-12 mt-5">
-<h1 class="text-center text-warning">掲示板</h1>
+<h1 class="text-center text-warning">掲示板です</h1>
 <p class="text-right"><a href="{{route('board.create')}}" class="btn btn-success">新規作成</a></p>
 
 <p class="text-center">掲示板一覧</p>

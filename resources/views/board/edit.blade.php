@@ -17,7 +17,8 @@
                               </div>
 
                               <div class="form-group mt-2">
-                                    <label for="exampleFormControlTextarea1">内容</label>
+                                    <label for="exampleFormControlTextarea1">やること
+                                    </label>
                                     <textarea name="comment" class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="内容を入力してください。"  required >{{$board->comment}}</textarea>
                                   </div>
 

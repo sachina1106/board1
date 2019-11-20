@@ -12,6 +12,8 @@
             <th scope="col">名前</th>
             <th scope="col">年齢</th>
             <th scope="col">内容</th>
+            <th></th>
+            <th></th>
           </tr>
         </thead>
         <tbody>
@@ -30,7 +32,7 @@
         </form>
           </tr>
 
-@endforeachl
+@endforeach
         </tbody>
       </table>
 </div>
